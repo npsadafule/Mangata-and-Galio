@@ -1,2 +1,2 @@
 # Mangata-and-Galio
-Created a webpage using HTML and CSS for a project.
+Developed a webpage for Fictional Client using HTML and CSS for a project.
