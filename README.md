@@ -1,2 +1,2 @@
 # Mangata-and-Galio
-Developed a responsive webpage for a Fictional Client using HTML and CSS.
+Developed a webpage for Fictional Client using HTML and CSS for a project.
