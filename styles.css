@@ -2,15 +2,15 @@
     body {
       min-width: 320px; 
     }
-  }
+}
 
-  @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
     body {
       max-width: 100%;
       margin-left: auto;
       margin-right: auto;
     }
-  }
+}
   
 
 body{
@@ -69,7 +69,7 @@ nav a{
       padding: 5px; 
       font-size: 1em;
     }
-  }
+}
 
 nav a:hover{
     color: blue;
